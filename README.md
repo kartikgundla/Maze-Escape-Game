@@ -36,9 +36,9 @@ Control a ball through a maze using arrow keys. Avoid the walls and reach the ex
 - Event-driven programming in C
 
 ## Contributors
+- Kartik Pandurang Gundla
 - Shlok Balaji Punjal
 - Onkar Shrikant Ekkaldevi
-- Kartik Pandurang Gundla
 
 ## Project Guide
 R. V. Mundhe Sir — Department of Computer Technology, Government Polytechnic, Solapur
